@@ -1,0 +1,14 @@
+{
+    "name": "matthewpatterson/braintree_multi_merchant_example",
+    "description": "Example of how to use Braintree with multiple merchants",
+    "require": {
+        "braintree/braintree_php": "3.6.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthew Patterson",
+            "email": "matthew.s.patterson@gmail.com"
+        }
+    ]
+}
